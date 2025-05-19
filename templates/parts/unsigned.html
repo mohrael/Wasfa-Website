@@ -1,0 +1,19 @@
+{% load static %}
+
+<ul id="nav">
+    <div class="nav-img"> 
+        <a href="/HomePage.html"><img src="{% static './imgs/white-logo.png'%}" alt="no nav photo" width="120px"></a>
+    </div>
+
+    <div class="nav-text">
+        <li><a href="/HomePage.html">Home</a></li>
+        <li><a href="./search-notlogged.html">Search</a></li>
+        <li><a href="./about.html">About</a></li>
+        <li><a href="./login.html">Log In</a></li>
+        <li><a href="/register.html">Register</a></li>
+    </div>
+   
+</ul>
+
+{% block content %}
+{% endblock content %}
