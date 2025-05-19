@@ -25,9 +25,9 @@ It’s more than just a recipe website — it’s a space to **record your favor
 ## 🛠️ Technologies Used
 
 - **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** (Optional: PHP / Node.js / Django — depends on your stack)
-- **Database:** (Optional: MySQL / Firebase / MongoDB)
-- **Styling:** CSS Grid / Flexbox (or Bootstrap if used)
+- **Backend:**  Django 
+- **Database:**  MySQL 
+- **Styling:** CSS Grid 
 
 ---
 
