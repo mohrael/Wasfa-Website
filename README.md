@@ -37,6 +37,5 @@ It’s more than just a recipe website — it’s a space to **record your favor
 |-----------|----------------|
 | ![Home](assets/home.png) | ![Recipe](assets/recipe.png) |
 
-> Make sure your screenshots are saved in the `/assets` folder and named correctly.
 
 ---
