@@ -31,11 +31,3 @@ It’s more than just a recipe website — it’s a space to **record your favor
 
 ---
 
-## 🧪 Screenshots
-
-| Home Page | Recipe Details |
-|-----------|----------------|
-| ![Home](assets/home.png) | ![Recipe](assets/recipe.png) |
-
-
----
